@@ -48,14 +48,16 @@
   padding-left:23px;
 }
 
+
 .projectContainer{
   display:flex;
 }
 
+
 .image{
   text-align: center;
-  width:300px;
-  height:300px;
+  width:200px;
+  height:200px;
   margin-left:10px;
 }
 
@@ -67,8 +69,6 @@
 .imageDescription p{
   display:inline;
 }
-
-
 
 .footerHeader{
   color:#FFB703;

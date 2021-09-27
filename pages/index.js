@@ -27,7 +27,7 @@ export default function Website (){
               <Image src="/1.png" alt="image1" width="500px" height="500px"/>
             </div>
             <div className={styles.imageDescription}>
-              <p>This is the first react application developed</p>
+              <p>This is the first react application developed which renders a message addressing the person whose name is entered in the inpt field regarding safty against covid19 virus</p>
             </div>
           </div>
 
@@ -63,10 +63,10 @@ export default function Website (){
               <Image src="/5.png" alt="image5" width="500px" height="500px"/>
             </div>
             <div className={styles.imageDescription}>
-              <p>Check5</p>
+              <p>This is the first website created using nextjs, a JavaScript framework. This website shows all the 
+                anime (japanese cartoon) I love to watch over and over.</p>
             </div>
           </div>
-
           <div className={styles.imageContainer}>
             <div className={styles.image}>
               <Image src="/6.png" alt="image6" width="500px" height="500px"/>
