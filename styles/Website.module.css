@@ -1,0 +1,75 @@
+.body{
+  background-color: #001219;
+}
+
+.header{
+  padding:1rem;
+  margin:0px;
+}
+
+.mainHeading{
+  text-align: center;
+  color:#cad6e3;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 2rem;
+  padding:30px;
+  margin-bottom: 0px;
+}
+
+.aboutMeHeading{
+  color:#FFB703;
+  margin-bottom:5px;
+}
+
+.aboutMe{
+  margin-left:300px;
+  margin-right:300px;
+}
+
+.aboutMeDescription{
+  margin-top:0px;
+  color:#a8dadc;
+  font-size:1rem;
+  margin-bottom:5px;
+}
+
+.projects{
+  margin-left:300px;
+  margin-right:300px;
+}
+
+.projectsHeading{
+  color: #FFB703;
+}
+
+.secondAboutMeDescription{
+  color: #a8dadc;
+  margin-top:0px;
+  padding-left:23px;
+}
+
+.projectContainer{
+  display:flex;
+}
+
+.image{
+  text-align: center;
+  margin-left:10px;
+}
+
+.imageDescription{
+  color:#a8dadc;
+  text-align: center;
+}
+
+.imageDescription p{
+  display:inline;
+}
+
+
+
+.footerHeader{
+  color:#FFB703;
+  margin-left:300px;
+  margin-right:300px;
+}
