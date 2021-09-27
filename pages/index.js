@@ -24,15 +24,16 @@ export default function Website (){
         <div className={styles.projectContainer}>
           <div className={styles.imageContainer}>
             <div className={styles.image}>
-              <Image src="/1.png" alt="image1" width="300px" height="300px"/>
+              <Image src="/1.png" alt="image1" width="500px" height="500px"/>
             </div>
             <div className={styles.imageDescription}>
-              <p>Check1</p>
+              <p>This is the first react application developed</p>
             </div>
           </div>
+
           <div className={styles.imageContainer}>
             <div className={styles.image}>
-              <Image src="/2.png" alt="image2" width="300px" height="300px"/>
+              <Image src="/2.png" alt="image2" width="500px" height="500px"/>
             </div>
             <div className={styles.imageDescription}>
               <p>Check2</p>
@@ -41,7 +42,7 @@ export default function Website (){
 
           <div className={styles.imageContainer}>
             <div className={styles.image}>
-              <Image src="/3.png" alt="image3" width="300px" height="300px"/>
+              <Image src="/3.png" alt="image3" width="500px" height="500px"/>
             </div>
             <div className={styles.imageDescription}>
               <p>Check3</p>
@@ -50,7 +51,7 @@ export default function Website (){
 
           <div className={styles.imageContainer}>
             <div className={styles.image}>
-              <Image src="/4.png" width="300px" height="300px" alt="image4"/>
+              <Image src="/4.png" width="500px" height="500px" alt="image4"/>
             </div>
             <div className={styles.imageDescription}>
               <p>Check4</p>
@@ -59,7 +60,7 @@ export default function Website (){
 
           <div className={styles.imageContainer}>
             <div className={styles.image}>
-              <Image src="/5.png" alt="image5" width="300px" height="300px"/>
+              <Image src="/5.png" alt="image5" width="500px" height="500px"/>
             </div>
             <div className={styles.imageDescription}>
               <p>Check5</p>
@@ -68,7 +69,7 @@ export default function Website (){
 
           <div className={styles.imageContainer}>
             <div className={styles.image}>
-              <Image src="/6.png" alt="image6" width="300px" height="300px"/>
+              <Image src="/6.png" alt="image6" width="500px" height="500px"/>
             </div>
             <div className={styles.imageDescription}>
               <p>Check6</p>
@@ -77,7 +78,7 @@ export default function Website (){
 
           <div className={styles.imageContainer}>
             <div className={styles.image}>
-              <Image src="/7.png" alt="image7" width="300px" height="300px"/>
+              <Image src="/7.png" alt="image7" width="500px" height="500px"/>
             </div>
             <div className={styles.imageDescription}>
               <p>Check7</p>
