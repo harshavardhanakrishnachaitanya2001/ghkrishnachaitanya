@@ -81,7 +81,7 @@ export default function Website (){
                   <div className={styles.imageDescription}>
                     <p>This is a react app that renders recipies that can be prepared with the vegitables in the list displayed. 
                       This app is the first app that uses react router to navigate from one page to another. This app was styled 
-                      using react's styled components</p>
+                      using react&aposs styled components</p>
                   </div>
                 </div>
               </a>
