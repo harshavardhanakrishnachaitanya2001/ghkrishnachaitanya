@@ -34,7 +34,8 @@ export default function Website (){
                 <Image src="/1.png" alt="image1" width="500px" height="500px"/>
               </div>
               <div className={styles.imageDescription}>
-                <p>This is the first react application developed which renders a message addressing the person whose name is entered in the inpt field regarding safty against covid19 virus</p>
+                <p>This is the first react application developed which renders a message addressing the person whose name is 
+                  entered in the inpt field regarding safty against covid19 virus. The styling for this app is done using plane old CSS</p>
               </div>
             </div>
 
@@ -43,7 +44,8 @@ export default function Website (){
                 <Image src="/2.png" alt="image2" width="500px" height="500px"/>
               </div>
               <div className={styles.imageDescription}>
-                <p>Check2</p>
+                <p>This is a todo-list developed using reactjs, which displays the task entered in the input field along 
+                  with a button that marks the task as completed. The styling for this app is done using plane old CSS</p>
               </div>
             </div>
 
