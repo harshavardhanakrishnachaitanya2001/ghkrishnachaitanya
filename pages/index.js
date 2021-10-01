@@ -22,7 +22,7 @@ export default function Website (){
           </p>
           <p className={styles.aboutMeDescription}>
             I have been working with React JS from over 2 years. I also love to work with HTML, CSS, Venilla JavaScript, 
-            Mongodb, Expressjs, Nodejs, Nextjs, Tailwindcss, React-Native, Java and sveltejs as well. I have experiance 
+            Mongodb, Expressjs, Nodejs, Nextjs, Tailwindcss, CSS flexbox, React-Native, Java and sveltejs as well. I have experiance 
             working with C and C++ also.
           </p>
         </div>
