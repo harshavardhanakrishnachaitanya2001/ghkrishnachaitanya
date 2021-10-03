@@ -48,7 +48,7 @@ export default function Website (){
                   <p className={styles.imageDescription}>
                     This is a todo-list application developed using reactjs, where the user enters the task he wants to do in 
                     the input field and it will be displayed along with a button that when clicked marks that specific task as 
-                    done. The styling for this app is done using the 'style tags that come with jsx.
+                    done. The styling for this app is done using the style tags that come with jsx.
                   </p>
                 </a>
               </Link>
@@ -75,7 +75,7 @@ export default function Website (){
                   <p className={styles.imageDescription}>
                     This is a react web application that displayes the steps to prepare various food dishes with the vegitables 
                     that are in the list. The rouiting in this app is done using react routers and the syling for this app is 
-                    done using react's styled components.
+                    done using react&lsquo;s styled components.
                   </p>
                 </a>
               </Link>
@@ -114,6 +114,20 @@ export default function Website (){
                   <p className={styles.imageDescription}>
                     This is another svelte js application that displayes time of the day in 24-hour format. Fields are also 
                     provided with the help of which time that the clock displayes can be set.
+                  </p>
+                </a>
+              </Link>
+            </div>
+
+            <div>
+              <Link href="">
+                <a>
+                  <Image src="/8.png" alt="Image 8" height="300px" width="300px"/>
+                  <p className={styles.imageDescription}>
+                    This is an applicatoin that is developoed using nodejs, that displays names and ids of pokemon randomly.
+                  </p>
+                  <p className={styles.imageDescription}>
+                    <b>Note:</b> In order for this app to work, first nodejs must be installed in your systems. Next, clone the repository using &lsquo; git clone &lsquo; command. The repository to clone is: <code>https://github.com/harshavardhanakrishnachaitanya2001/pokedex</code>. Next using node command the &lsquo; app.js &lsquo; file in the terminal.
                   </p>
                 </a>
               </Link>
