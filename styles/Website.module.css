@@ -20,7 +20,7 @@
 .aboutMeHeading{
   color:#FFB703;
   margin-bottom:5px;
-  font-size: 1.5rem;
+  font-size: 2rem;
 }
 
 .aboutMe{
@@ -37,6 +37,7 @@
 
 .projectsHeading{
   color: #FFB703;
+  font-size: 2rem;
 }
 
 .projects{
@@ -71,5 +72,6 @@
 .footerHeader{
   color:#FFB703;
   margin-left:300px;
+  font-size: 2rem;
   margin-right:300px;
 }
