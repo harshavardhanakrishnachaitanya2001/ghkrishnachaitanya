@@ -120,8 +120,6 @@ export default function Website (){
             </div>
 
             <div>
-              <Link href="">
-                <a>
                   <Image src="/8.png" alt="Image 8" height="300px" width="300px"/>
                   <p className={styles.imageDescription}>
                     This is an applicatoin that is developoed using nodejs, that displays names and ids of pokemon randomly.
@@ -129,8 +127,6 @@ export default function Website (){
                   <p className={styles.imageDescription}>
                     <b>Note:</b> In order for this app to work, first nodejs must be installed in your systems. Next, clone the repository using &lsquo; git clone &lsquo; command. The repository to clone is: <code>https://github.com/harshavardhanakrishnachaitanya2001/pokedex</code>. Next using node command the &lsquo; app.js &lsquo; file in the terminal.
                   </p>
-                </a>
-              </Link>
             </div>
 
           </div>
