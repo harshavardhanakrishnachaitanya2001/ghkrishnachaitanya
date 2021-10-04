@@ -155,7 +155,7 @@ export default function Website (){
               <div style={{marginRight:'10px'}}>
                 <Link href="https://www.facebook.com/profile.php?id=100009945935184">
                   <a target="_blank">
-                      <FontAwesomeIcon icon={faFacebook}/>
+                      <FontAwesomeIcon icon={faFacebook} style={{width:'30px', marginRight:'2px'}}/>
                   </a>
                 </Link>
               </div>
@@ -163,14 +163,14 @@ export default function Website (){
               <div style={{marginRight:'10px'}}>
                 <Link href="https://twitter.com/kccodes365">
                   <a target="_blank">
-                      <FontAwesomeIcon icon={faTwitter}/>
+                      <FontAwesomeIcon icon={faTwitter} style={{width:'30px', marginRight:'2px'}}/>
                   </a>
                 </Link>
               </div>
               <div style={{marginRight:'10px'}}>
                 <Link href="https://www.instagram.com/g_h_k_c/">
                   <a target="_blank">
-                      <FontAwesomeIcon icon={faInstagram}/>
+                      <FontAwesomeIcon icon={faInstagram} style={{width:'30px', marginRight:'2px'}}/>
                   </a>
                 </Link>
               </div>
@@ -178,7 +178,7 @@ export default function Website (){
               <div style={{marginRight:'10px'}}>
                 <Link href="https://github.com/harshavardhanakrishnachaitanya2001">
                   <a target="_blank">
-                      <FontAwesomeIcon icon={faGithub}/>
+                      <FontAwesomeIcon icon={faGithub} style={{width:'30px', marginRight:'2px'}}/>
                   </a>
                 </Link>
               </div>
@@ -186,7 +186,7 @@ export default function Website (){
               <div>
                 <Link href="mailto:pvageta02@gmail.com">
                   <a target="_blank">
-                      <FontAwesomeIcon icon={faEnvelope}/>
+                      <FontAwesomeIcon icon={faEnvelope} style={{width:'30px'}}/>
                   </a>
                 </Link>
               </div>
