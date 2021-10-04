@@ -11,24 +11,25 @@ export default function Website (){
     <>
       <Head>
         <title>G. H. Krishna Chaitanya</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <link href="/icon.jpg" rel="icon"/>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" 
+        integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" 
+        crossOrigin="anonymous"/>
       </Head>
       <body className={styles.body}>
 
         <div className={styles.header}>
-          <h1 className={styles.mainHeading}>G. H. Krishna Chaitanya</h1>
+          <h1 className={styles.mainHeading}><b>G. H. Krishna Chaitanya</b></h1>
         </div>
         <div className={styles.aboutMe}>
           <h2 className={styles.aboutMeHeading}>About me...</h2>
           <p className={styles.aboutMeDescription}>
-          Hello Guys!! G. H. Krishna Chaitanya am persuing B.tech IV year at Marri Laxman Reddy Institute of Technology 
+          Hello Guys!! G. H. Krishna Chaitanya, persuing B.tech IV year at Marri Laxman Reddy Institute of Technology 
             and Management. I am a passionate full stack developer willing to learn new things whenever possible.
           </p>
           <p className={styles.aboutMeDescription}>
-            I have been working with React JS from over 2 years. I also love to work with HTML, CSS, Venilla JavaScript, 
-            Mongodb, Expressjs, Nodejs, Nextjs, Tailwindcss, CSS flexbox, React-Native, Java and sveltejs as well. I have experiance 
-            working with C and C++ also.
+            I have been working with React JS for over 2 years. I also love to work with HTML, CSS, Venilla JavaScript, 
+            Mongodb, Expressjs, Nodejs, Nextjs, Tailwindcss, CSS flexbox, React-Native and sveltejs as well. I have experiance 
+            working with C, C++ and Java also.
           </p>
         </div>
         <div className={styles.projects}>
