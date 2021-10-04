@@ -3,7 +3,7 @@ import Image from 'next/image'
 import styles from '../styles/Website.module.css'
 import Head from 'next/head'
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import {faDiscord, faFacebook, faGithub,faInstagram, faTwitter } from '@fortawesome/free-brands-svg-icons';
+import {faFacebook, faGithub,faInstagram, faTwitter } from '@fortawesome/free-brands-svg-icons';
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons';
 
 export default function Website (){
@@ -11,9 +11,11 @@ export default function Website (){
     <>
       <Head>
         <title>G. H. Krishna Chaitanya</title>
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" 
-        integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" 
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" 
+        rel="stylesheet" 
+        integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" 
         crossOrigin="anonymous"/>
+
       </Head>
       <body className={styles.body}>
 
@@ -28,23 +30,13 @@ export default function Website (){
           </p>
           <p className={styles.aboutMeDescription}>
             I have been working with React JS for over 2 years. I also love to work with HTML, CSS, Venilla JavaScript, 
-            Mongodb, Expressjs, Nodejs, Nextjs, Tailwindcss, CSS flexbox, React-Native and sveltejs as well. I have experiance 
+            Mongodb, Expressjs, Nodejs, Nextjs, Tailwindcss, CSS flexbox, React-Native, Bootstrap and sveltejs as well. I have experiance 
             working with C, C++ and Java also.
           </p>
         </div>
         <div className={styles.projects}>
           <h2 className={styles.projectsHeading}>Projects Developed</h2>
           <div className={styles.projectContainer}>
-
-            
-
-            
-
-            
-
-            
-
-            
 
             <div>
               <Link href="https://clock-app-with-svelte-js.vercel.app/">
